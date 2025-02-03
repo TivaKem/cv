@@ -11,7 +11,9 @@
   animation: fadeIn 1s ease-in forwards; /* Apply the fadeIn animation */
 }
 
-
+body {
+  background: radial-gradient(circle, rgba(207,252,255,1) 0%, rgba(16,39,0,1) 59%);
+}
 
 header {
   padding-top:4rem;
